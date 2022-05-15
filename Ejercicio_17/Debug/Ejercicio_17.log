@@ -1,0 +1,4 @@
+﻿  Ejercicio_17.cpp
+D:\Escritorio\practicas1-2\Ejercicio_17\Ejercicio_17.cpp(21,47): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Escritorio\practicas1-2\Ejercicio_17\Ejercicio_17.cpp(21,41): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Ejercicio_17.vcxproj -> D:\Escritorio\practicas1-2\Ejercicio_17\Debug\Ejercicio_17.exe

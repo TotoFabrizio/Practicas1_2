@@ -1,0 +1,4 @@
+D:\Escritorio\practicas1-2\Ejercicio_16\Debug\Ejercicio_16.exe
+D:\Escritorio\practicas1-2\Ejercicio_16\Debug\Ejercicio_16.pdb
+D:\Escritorio\practicas1-2\Ejercicio_16a\Debug\Ejercicio_16a.exe
+D:\Escritorio\practicas1-2\Ejercicio_16a\Debug\Ejercicio_16a.pdb

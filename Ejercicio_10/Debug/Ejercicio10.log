@@ -1,0 +1,6 @@
+﻿  Ejercicio10.cpp
+D:\Escritorio\Practicas1y2\Ejercicio10\Ejercicio10.cpp(9,21): warning C4101: 'g4': variable local sin referencia
+D:\Escritorio\Practicas1y2\Ejercicio10\Ejercicio10.cpp(9,13): warning C4101: 'g2': variable local sin referencia
+D:\Escritorio\Practicas1y2\Ejercicio10\Ejercicio10.cpp(9,9): warning C4101: 'g1': variable local sin referencia
+D:\Escritorio\Practicas1y2\Ejercicio10\Ejercicio10.cpp(9,17): warning C4101: 'g3': variable local sin referencia
+  Ejercicio10.vcxproj -> D:\Escritorio\Practicas1y2\Ejercicio10\Debug\Ejercicio10.exe

@@ -1,0 +1,4 @@
+﻿  ejercicio_11.cpp
+D:\Escritorio\practicas1-2\ejercicio_11\ejercicio_11.cpp(20,15): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Escritorio\practicas1-2\ejercicio_11\ejercicio_11.cpp(24,15): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  ejercicio_11.vcxproj -> D:\Escritorio\practicas1-2\ejercicio_11\Debug\ejercicio_11.exe

@@ -1,0 +1,4 @@
+D:\Escritorio\Practicas1y2\Ejercicio1\Debug\Ejercicio1.exe
+D:\Escritorio\Practicas1y2\Ejercicio1\Debug\Ejercicio1.pdb
+D:\Escritorio\Practicas1y2\Ejercicio1\Debug\Ejercicio1.exe.lastcodeanalysissucceeded
+D:\Escritorio\Practicas1y2\Ejercicio1\Debug\NativeCodeAnalysis.read.1.tlog
